@@ -12,7 +12,7 @@ header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-color: #ffffff;
+    color: #ffffff;
 }
 
 header h1 {
@@ -82,7 +82,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/*This is a selector tag that applies to muliple tag lines that have the same applications*/
 .benefit-lead,
 .benefit-brand,
 .benefit-cost{
@@ -141,6 +141,7 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/*This is a button tag that allows multiple buttons to displayed a certain way*/
 button{
     display: inline
 }
